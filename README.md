@@ -4,7 +4,7 @@ A college student of JISCE
 [![Facebook](assests/badge-facebook.svg)](https://facebook.com/shubhajit karak) [![X](assests/badge-x.svg)](https://x.com/shubhajit karak) [![email](assests/badge-email.svg)](mailto:swadeshkarak752@gmail.com) 
 
 # 💻 Tech Stack:
-![Python](assests/badge-python.svg) ![C](assests/badge-c.svg) ![JavaScript](assests/badge-javascript.svg) ![HTML5](assests/badge-html5.svg).![AWS](assests/badge-aws.svg) ![Vercel](assests/badge-vercel.svg) ![Firebase](assests/badge-firebase-blue.svg) [[Flutter](assests/badge-flutter.svg) ![React](assests/badge-react.svg) ![Apache Ant](assests/badge-apache-ant.svg) ![Firebase](assests/badge-firebase-gold.svg) ![MongoDB](assests/badge-mongodb.svg) ![MySQL](assests/badge-mysql.svg) ![Canva](assests/badge-canva.svg) ![Figma](assests/badge-figma.svg) ![Adobe](assests/badge-adobe.svg)
+![Python](assests/badge-python.svg) ![C](assests/badge-c.svg) ![JavaScript](assests/badge-javascript.svg) ![HTML5](assests/badge-html5.svg).![AWS](assests/badge-aws.svg) ![Vercel](assests/badge-vercel.svg) ![Firebase](assests/badge-firebase-blue.svg) ![React](assests/badge-react.svg) ![Apache Ant](assests/badge-apache-ant.svg) ![Firebase](assests/badge-firebase-gold.svg) ![MongoDB](assests/badge-mongodb.svg) ![MySQL](assests/badge-mysql.svg) ![Canva](assests/badge-canva.svg) ![Figma](assests/badge-figma.svg) ![Adobe](assests/badge-adobe.svg)
 # 📊 GitHub Stats:
 ![](assests/stats-github.svg)<br/>
 ![](assests/stats-streak.svg)<br/>
