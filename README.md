@@ -1,5 +1,7 @@
 Hi, I am SHUBHAJIT KARAK.
-A college student of JISCE 
+A college student of JISCE
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shubhajitkarak1234&color=blue&style=flat)
 ## 🌐 Socials:
 [![Facebook](assests/badge-facebook.svg)](https://facebook.com/shubhajit%20karak) [![X](assests/badge-x.svg)](https://x.com/shubhajit%20karak) [![email](assests/badge-email.svg)](mailto:swadeshkarak752@gmail.com) 
 
@@ -20,7 +22,6 @@ A college student of JISCE
 ![](https://github-contributor-stats.vercel.app/api?username=Shubhajitkarak1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shubhajitkarak1234&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
