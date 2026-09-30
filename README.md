@@ -1,7 +1,7 @@
 Hi, I am SHUBHAJIT KARAK.
 A college student of JISCE 
 ## 🌐 Socials:
-[![Facebook](assests/badge-facebook.svg)](https://facebook.com/shubhajit karak) [![X](assests/badge-x.svg)](https://x.com/shubhajit karak) [![email](assests/badge-email.svg)](mailto:swadeshkarak752@gmail.com) 
+[![Facebook](assests/badge-facebook.svg)](https://facebook.com/shubhajit%20karak) [![X](assests/badge-x.svg)](https://x.com/shubhajit%20karak) [![email](assests/badge-email.svg)](mailto:swadeshkarak752@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](assests/badge-python.svg) ![C](assests/badge-c.svg) ![JavaScript](assests/badge-javascript.svg) ![HTML5](assests/badge-html5.svg).![AWS](assests/badge-aws.svg) ![Vercel](assests/badge-vercel.svg) ![Firebase](assests/badge-firebase-blue.svg) ![React](assests/badge-react.svg) ![Apache Ant](assests/badge-apache-ant.svg) ![Firebase](assests/badge-firebase-gold.svg).![MySQL](assests/badge-mysql.svg) ![Canva](assests/badge-canva.svg) ![Figma](assests/badge-figma.svg) ![Adobe](assests/badge-adobe.svg)
@@ -20,7 +20,7 @@ A college student of JISCE
 ![](https://github-contributor-stats.vercel.app/api?username=Shubhajitkarak1234&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](assests/badge-visitor-count.svg)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shubhajitkarak1234&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
